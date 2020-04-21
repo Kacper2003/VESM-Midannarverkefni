@@ -4,4 +4,4 @@
 
 [Skrá með kóða](https://github.com/Kacper2003/VESM-Midannarverkefni/blob/master/sketch_feb13a.ino)
 
-
+![x](https://github.com/Kacper2003/VESM-Midannarverkefni/blob/master/IMG_2656.jpg)
